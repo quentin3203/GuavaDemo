@@ -18,7 +18,7 @@ import com.google.common.collect.Sets;
  * @author Administrator
  *
  */
-public class Demo2 {
+public class Demo02 {
 	public static void main(String[] args) {
 		// 组合式函数编程
 		// 确保容器中的字符串长度不超过5，进行截取，后大写
